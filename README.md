@@ -15,7 +15,7 @@ First website
 </body>
 <style>
   body {
-  background-color:light Blue;
+  background-color:Pink;
   color:#fff;
   text-align:center;
   }
